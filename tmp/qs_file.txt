@@ -1,0 +1,2 @@
+IP;89.109.49.169;datetime;2022-03-21 22:37:52.827095;file_name;qs_file.txt;function;page;page_id;2;qs_amount;10;qs_name;hjkk;qs_price;5;qs_type;Доходы;submit;Отправить;
+IP;5.166.212.252;datetime;2022-03-22 15:46:26.801783;file_name;qs_file.txt;function;page;page_id;2;qs_amount;0;qs_price;0;qs_type;Доходы;submit;Отправить;

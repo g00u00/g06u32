@@ -1,0 +1,3 @@
+000_file_name;g06u33_bash.txt;010_mode;a;015_abc;5;function;page;ls;3;mkdir_mv_rm_cp;1;page_id;11;submit;Отправить;
+000_file_name;g06u33_bash.txt;010_mode;a;015_abc;5;function;page;ls;0;mkdir_mv_rm_cp;1;page_id;11;submit;Отправить;
+000_file_name;g06u33_bash.txt;010_mode;a;015_abc;5;function;page;ls;3;mkdir_mv_rm_cp;1;page_id;11;submit;Отправить;
